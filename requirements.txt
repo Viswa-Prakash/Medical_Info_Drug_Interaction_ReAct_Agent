@@ -1,0 +1,12 @@
+python-dotenv
+streamlit
+langchain
+langgraph
+langchain-core
+langchain-community
+langchain-openai
+wikipedia
+langchain_google_community
+langchain_tavily
+
+streamlit
