@@ -58,8 +58,9 @@ Built using:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/medical-drug-agent.git
-cd medical-drug-agent
+git clone https://github.com/Viswa-Prakash/Medical_Info_Drug_Interaction_ReAct_Agent.git
+cd Medical_Info_Drug_Interaction_ReAct_Agent
+
 
 ### 2. Create and Activate a Virtual Environment
 
