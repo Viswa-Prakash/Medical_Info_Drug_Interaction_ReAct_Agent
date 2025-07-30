@@ -65,8 +65,8 @@ cd Medical_Info_Drug_Interaction_ReAct_Agent
 ### 2. Create and Activate a Virtual Environment
 
 ```bash
-python -m venv venv
-source venv/bin/activate  # or venv\Scripts\activate on Windows
+conda create -p venv python=3.13 -y
+conda activate venv
 
 ### 3. Install Dependencies
 
